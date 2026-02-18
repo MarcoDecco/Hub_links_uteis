@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](marcodecco.github.io/Hub_links_uteis)
+- [Acesse o projeto finalizado, online](https://marcodecco.github.io/Hub_links_uteis/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGned7hLtwo4VVIiQIxCoQDxiewslK67IHeNugaj15_vwuEyxk1Ao0CNly9myA_aem_burQfdllMdbBSH65uZeVdw)
 
 ## 🔖 Layout
 
