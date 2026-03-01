@@ -8,7 +8,7 @@ function toggleMode () {
     html.classList.add('light')
   }
 
-  A linha abaixo faz exatamente o que a estrutura condicinal acima também faz, porém de forma mais sucinta
+  A linha abaixo faz exatamente o que a estrutura condicinal acima faz, porém de forma sucinta
   */
   html.classList.toggle('light');
 
